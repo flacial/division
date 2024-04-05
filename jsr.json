@@ -1,0 +1,5 @@
+{
+  "name": "@flacial/division",
+  "version": "3.0.0",
+  "exports": "./mod.ts"
+}

@@ -1,4 +1,7 @@
 {
+  "name": "@flacial/division",
+  "version": "3.0.0",
+  "exports": "./mod.ts",
   "tasks": {
     "dev": "deno run --watch mod.ts",
     "build": "deno compile mod.ts",
@@ -6,6 +9,5 @@
   },
   "imports": {
     "std/": "https://deno.land/std@0.221.0/"
-  },
-  "name": "@flacial/division"
+  }
 }

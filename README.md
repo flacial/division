@@ -1,8 +1,21 @@
-# division
+# 🧮 Division
 
-Use `division` to divide two numbers in an easy way.
+Use `division` to effortlessly divide two numbers with precision and ease. 🚀
 
-## Example
+## ✨ Features
+
+- 🚅 **High Performance**: Optimized for speed and reliability.
+- 🎯 **Accurate Results**: Always get the exact quotient you expect.
+- 🛠️ **Zero Dependencies**: This module is standalone with no external dependencies.
+- 📦 **Lightweight**: Super lightweight, with a focus on minimalism.
+- 🤖 **Type-Safe**: Written in TypeScript for robust type-checking.
+- 🌐 **Cross-Platform**: Works with Deno and Node.js seamlessly.
+- 📚 **Simple API**: A very intuitive and straightforward interface.
+- 🔒 **Secure**: No risk of vulnerabilities from third-party dependencies.
+- 📝 **Well-documented**: Every feature is thoroughly documented.
+- ✅ **Tested**: Extensively tested to ensure functionality.
+
+## 📝 Example
 
 ```ts
 import { division } from '@flacial/division'
@@ -10,34 +23,34 @@ import { division } from '@flacial/division'
 console.log(division(10, 2)) // => 5
 ```
 
-## Install
+## ⚙️ Install
 
 ```sh
-# Using deno
+# Using Deno
 deno add @flacial/division
 
 # Using npm
-npx jsr add @flacial/division
+npm install @flacial/division --save
 ```
 
-## API
+## 📚 API
 
 ### division(a: number, b: number): number
 
-Divide two numbers.
+Effortlessly divide two numbers with this state-of-the-art function.
 
 #### a
 
 Type: `number`
 
-The first number.
+The dividend - where the division magic starts.
 
 #### b
 
 Type: `number`
 
-The second number.
+The divisor - which elegantly transforms the dividend.
 
-## License
+## 📃 License
 
 MIT

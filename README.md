@@ -13,7 +13,11 @@ console.log(division(10, 2)) // => 5
 ## Install
 
 ```sh
+# Using deno
 deno add @flacial/division
+
+# Using npm
+npx jsr add @flacial/division
 ```
 
 ## API

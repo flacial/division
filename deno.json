@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "dev": "deno run --watch mod.ts",
+    "build": "deno compile mod.ts",
+    "test": "deno test mod.test.ts"
+  },
+  "imports": {
+    "std/": "https://deno.land/std@0.221.0/"
+  }
+}
